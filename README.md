@@ -71,3 +71,9 @@ Apresentação sobre Arquitetura de Integrações realizada no dia 04/11/2025. T
 - Node.js: https://nodejs.org/en
 - SQL Server: https://www.microsoft.com/en-us/sql-server
 - PostgreSQL: https://www.postgresql.org/
+- Redis: https://redis.io/
+- MongoDB: https://www.mongodb.com/
+- Semantic Kernel: https://github.com/microsoft/semantic-kernel
+- Microsoft Agent Framework: https://github.com/microsoft/agent-framework
+- MCP (Model Context Protocol): https://modelcontextprotocol.io/docs/getting-started/intro
+- Azure AI Foundry: https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry
